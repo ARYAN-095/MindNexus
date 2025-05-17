@@ -1,10 +1,8 @@
-# 🧠⚡ MindNexus - Ultimate Productivity Suite [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
+# 🧠⚡ MindNexus - Ultimate Productivity Suite [![License: MIT]
 **Visualize • Organize • Collaborate • Conquer**  
 _A modern all-in-one productivity platform built with cutting-edge tech stack_
 
-![MindNexus Showcase](https://via.placeholder.com/1280x720.png/2a2a2a/ffffff?text=MindNexus+Demo+Preview)  
-*(Replace with actual screenshot/video)*
+ 
 
 ## 🚀 Features That Supercharge Your Productivity
 
