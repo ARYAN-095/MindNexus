@@ -1,4 +1,4 @@
-# 🧠⚡ MindNexus - Ultimate Productivity Suite [![License: MIT]
+# 🧠⚡ MindNexus - Ultimate Productivity Suite  
 **Visualize • Organize • Collaborate • Conquer**  
 _A modern all-in-one productivity platform built with cutting-edge tech stack_
 
